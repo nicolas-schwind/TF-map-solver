@@ -1,0 +1,6 @@
+type KTF
+parameters 2
+sol 20 43 50 78 126 143 167 195 212 217 342 356 376 380 399 419 437 490 523
+cost 54
+time 0.56
+optimal YES
